@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="TOLONG BANTU SUBSCRIBE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXrFT7NAHTBKFWdIt0StrM5zFptP84-m0_9mWPZChEjd-pzeVRbyexlnVpyucG4QfteL5EhDgyjhMgXhW8TEDXGKQlnRsPc-T1TBHb9IDfKuVQZSD8LQikL-1bLwIY7YeXHwYCOW-CCo3DBdg7z0YU5NuQUPX8nNj9KQy6Xe0Avgoq1Q/s220/KN2.png" tvg-id="", YOUTUBE LIVE
+https://cdn.jsdelivr.net/gh/sukete03/video/Ybarecode.mp4
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+#EXTINF:-1 tvg-id="TVOne" group-title="Indonesia Channels" tvg-url="mm" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TV ONE
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
